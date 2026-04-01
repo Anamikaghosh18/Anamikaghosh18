@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6EA8D8&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Backend+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6EA8D8&center=true&vCenter=true&width=500&lines=AI/ML+Engineer+%7C+Backend+Developer;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 ### 👩‍💻 About Me
 
 * 🧠 Strong interest in **Applied AI and Backend Developement**
-* 🌱 Currently Learning Distributed Systems, System Design, Microservices & Advanced RAG architectures  
+* 🌱 Currently Learning **Distributed Systems, Microservices & Advanced RAG architectures** 
 * 🤝 Open to **open source and collaborations**
 * 📬 Reach me at **[g.anamika0101@gmail.com](mailto:g.anamika0101@gmail.com)**
 
@@ -41,6 +41,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/PyTorch-DC382D?style=flat-square\&logo=pytorch\&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
