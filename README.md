@@ -1,12 +1,9 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=180&section=header&text=Hi+I'm+Anamika&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=180&section=header&text=hey+i'm+anamika&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6EA8D8&center=true&vCenter=true&width=500&lines=AI/ML+Engineer+%7C+Backend+Developer;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,13 +16,13 @@
   <a href="mailto:g.anamika0101@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Anamikaghosh18&label=Profile%20views&color=0e75b6&style=flat" />
+ 
 </p>
 
 
 ### 👩‍💻 About Me
 
-* 🧠 Strong interest in **Applied AI and Backend Developement**
+* 🧠 Strong interest in **Applied AI and Backend engineering**
 * 🌱 Currently Learning **Distributed Systems, Microservices & Advanced RAG architectures** 
 * 🤝 Open to **open source and collaborations**
 * 📬 Reach me at **[g.anamika0101@gmail.com](mailto:g.anamika0101@gmail.com)**
@@ -41,6 +38,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/PyTorch-DC382D?style=flat-square\&logo=pytorch\&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=langchain\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
@@ -55,6 +53,5 @@
 </br>
 </br>
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡%20Simplicity%20is%20prerequisite%20for%20reliability-0f2027?style=for-the-badge&logoColor=white"/>
+ <img src="https://img.shields.io/badge/fun_fact-the_bug_was_definitely_not_where_i_thought_it_was-red?style=for-the-badge"
 </p>
-<p align="center"><i>— Edsger W. Dijkstra</i></p>
