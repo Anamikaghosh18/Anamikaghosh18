@@ -6,9 +6,10 @@
 
 ### a little about me 
 
-* i work with **AI/ML + backend** - mostly building things and then debugging the things i just built.
-* i like going down **random tech rabbit holes** just to understand how something works... and somehow ending up three hours deep in documentation.
-* **open to collaborations** - so if you're building something cool, say hi :)
+* **AI/ML + backend** — building things and debugging what I just built.
+* I like **tech rabbit holes** and understanding how things work.
+* **Open to collaborations** — building something cool? Say hi :)
+
 
 ## things i work with
 
@@ -26,9 +27,8 @@
 <br>
 
 
-
-> why did the backend break up with the frontend?
-> too many commitment issues.
+> Why did Git become single?
+> Commitment issues. It had plenty of commits, but no push. 😭
 
 <br>
 
@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/anamikaghosh18">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/aka_anamika">
+  <a href="https://twitter.com/imanamkaa">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:g.anamika0101@gmail.com">
